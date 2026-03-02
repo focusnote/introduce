@@ -4,7 +4,7 @@
 ## 仓库类目
 ### 计算机类
 仓库:
-<a href="https://github.com:focusnote/cs-basic">cs-basic</a>
+- cs-basic [点击跳转](https://github.com:focusnote/cs-basic)
 /基础通识<br>
 主要内容为：高等数学、线性代数、概率论与数理统计、离散数学等。
 - [cs-core](https://github.com:focusnote/cs-core)
