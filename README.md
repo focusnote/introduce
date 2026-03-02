@@ -5,8 +5,7 @@
 ### 计算机类
 仓库:
 - cs-basic [点击跳转](https://github.com:focusnote/cs-basic)
-/基础通识<br>
-主要内容为：高等数学、线性代数、概率论与数理统计、离散数学等。
+
 - [cs-core](https://github.com:focusnote/cs-core)
 /核心理论<br>
 主要内容为：数据库原理、计算机组成原理、操作系统、数据结构与算法、编译原理、计算机网络等。
