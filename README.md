@@ -4,8 +4,7 @@
 ## 仓库类目
 ### 计算机类
 仓库:
-- [点击跳转](https://github.com:focusnote/cs-basic)
-- cs-basic [点击跳转](https://github.com:focusnote/cs-basic)
+- [cs-basic](https://github.com/focusnote/cs-basic)
 基础通识<br>
 主要内容为：高等数学、线性代数、概率论与数理统计、离散数学等。
 - [cs-core](https://github.com:focusnote/cs-core)
@@ -17,21 +16,12 @@
 - [cs-ai](https://github.com:focusnote/cs-ai)
 /人工智能<br>
 主要内容为：机器学习、深度学习、自然语言处理、计算机视觉等。
-- [cs-bigdata](https://github.com:focusnote/cs-bigdata)
+- [cs-bigdata](https://github.com/focusnote/cs-bigdata)
 /大数据<br>
 主要内容为：大数据技术、数据挖掘、数据仓库等。
-- [cs-iot](https://github.com:focusnote/cs-iot)
+- [cs-iot](https://github.com/focusnote/cs-iot)
 /嵌入式<br>
 主要内容为：物联网原理、传感器技术、嵌入式系统等。
-- [cs-sec](https://github.com:focusnote/cs-sec)
+- [cs-sec](https://github.com/focusnote/cs-sec)
 /信息安全<br>
 主要内容为：网络安全、信息安全管理、密码学等。
-
-
-
-
-
-- [开源字体图标库](https://github.com/useasset/font-icons)
-- [开源3D模型库](https://github.com/useasset/3d-models)
-- [开源UI组件库](https://github.com/useasset/ui-components)
-
